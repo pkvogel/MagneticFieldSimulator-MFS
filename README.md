@@ -2,6 +2,13 @@
 
 A Biot-Savart based versatile simulation software for education, research, and industry
 
+
+<p align="center">
+  <img src="img/main_img.png" width="350" title="screenshot">
+  <img src="img/main_img.png" width="350" alt="accessibility text">
+</p>
+
+
 ...some words
 This project was started in 2010 at the beginning of my PhD thesis to support my work
 on Magnetic Particle Imaging (MPI).
