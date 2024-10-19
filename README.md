@@ -4,8 +4,7 @@ A Biot-Savart based versatile simulation software for education, research, and i
 
 
 <p align="center">
-  <img src="/../../img/main_img.PNG" width="350" title="screenshot">
-  <img src="img/main_img.png" width="350" alt="accessibility text">
+  <img src="[https://raw.githubusercontent.com/pkvogel/MagneticFieldSimulator-MFS/refs/heads/main/img/main_img.PNG) width="350" title="screenshot">
 </p>
 
 
