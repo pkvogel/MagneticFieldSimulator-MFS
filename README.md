@@ -18,4 +18,4 @@ With this still growing framework, me and my group could find not only novel des
 and theories but also emulating MPI and MPS systems, which has been successfully built.
 
 <p> </p>
-<p> <a href="https://arxiv.org/pdf/2208.13835" target="_parent"> Link </a> to more information </p>
+<p> <a href="https://arxiv.org/pdf/2208.13835" target="_blank"> Link </a> to more information </p>
